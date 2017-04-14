@@ -17,9 +17,9 @@ alignment=1
 panelVisibility=3
 
 [PlasmaViews][Panel 21][Horizontal1920]
-maxLength=294
-minLength=281
-offset=1553
+maxLength=404
+minLength=396
+offset=1432
 thickness=24
 
 [PlasmaViews][Panel 21][Vertical1080]
