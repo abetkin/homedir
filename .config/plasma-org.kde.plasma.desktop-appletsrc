@@ -73,7 +73,7 @@ DialogHeight=74
 DialogWidth=1920
 
 [Containments][21][General]
-AppletOrder=38;22;25;27
+AppletOrder=22;38;25;27
 
 [Containments][26]
 activityId=
