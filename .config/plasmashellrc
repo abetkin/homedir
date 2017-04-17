@@ -6,7 +6,7 @@ extraItems=org.kde.plasma.notifications,org.kde.ktp-contactlist,org.kde.plasma.n
 knownItems=org.kde.plasma.notifications,org.kde.ktp-contactlist,org.kde.plasma.networkmanagement,org.kde.plasma.devicenotifier,org.kde.plasma.mediacontroller,org.kde.kdeconnect,org.kde.discovernotifier,org.kde.plasma.bluetooth,org.kde.plasma.printmanager,org.kde.plasma.volume,org.kde.plasma.clipboard,org.kde.plasma.battery
 
 [PlasmaRunnerManager]
-LaunchCounts=1 services_kcmsmserver.desktop,3 services_kwintabbox.desktop,5 services_guake.desktop,2 services_org.kde.konsole.desktop,2 services_kcm_lookandfeel.desktop,1 services_kcm_baloofile.desktop,1 services_org.kde.ksysguard.desktop,2 services_fonts.desktop,1 services_org.kde.kwalletmanager5.desktop,1 services_fontinst.desktop,1 services_kcm_plasmasearch.desktop,1 services_code.desktop,4 services_firefox.desktop,1 services_chromium-browser.desktop,2 services_org.kde.dolphin.desktop,1 services_autostart.desktop
+LaunchCounts=5 services_guake.desktop,3 services_kwintabbox.desktop,1 services_org.kde.kate.desktop,1 services_org.kde.discover.desktop,2 services_kcm_lookandfeel.desktop,1 services_org.kde.ksysguard.desktop,2 services_org.kde.dolphin.desktop,1 services_kcmsmserver.desktop,2 services_fonts.desktop,2 services_org.kde.konsole.desktop,4 services_firefox.desktop,1 services_org.kde.kwalletmanager5.desktop,1 services_code.desktop,1 services_fontinst.desktop,1 services_autostart.desktop,1 services_chromium-browser.desktop,1 services_kcm_baloofile.desktop,1 services_kcm_plasmasearch.desktop
 pluginWhiteList=services,places,shell,bookmarks,recentdocuments,locations,baloosearch
 
 [PlasmaViews][Panel 19][Horizontal1920]

@@ -21,6 +21,7 @@ DialogWidth=720
 
 [Containments][1][General]
 ToolBoxButtonState=topleft
+positions=1,14,desktop:/trash.desktop,0,1,desktop:/Home.desktop,0,0
 pressToMoveHelp=false
 showToolbox=false
 sortMode=-1
